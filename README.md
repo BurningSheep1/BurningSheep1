@@ -54,7 +54,7 @@ Hier baue ich Werkzeuge für mich, meine Familie und meinen Homeserver.
 
 | | Projekt | Worum es geht | Technik |
 |---|---|---|---|
-| 📚 | **KI-Notizen** | Ein Websiteprojekt mit Grundlagenwissen zu KI: kostenlos, ohne Werbung, ohne Affiliate-Links, ohne Kurse. Die Menschen, von denen ich selbst lerne, sind dort verlinkt. **Aktuell offline** | Astro |
+| 📚 | **KI-Notizen** | Ein Websiteprojekt mit Grundlagenwissen zu KI, ursprünglich gestartet für Familie und Freunde: kostenlos, ohne Werbung, ohne Affiliate-Links, ohne Kurse. Die Menschen, von denen ich selbst lerne, sind dort verlinkt. **Aktuell offline** | Astro |
 
 ### Homelab & KI selbst gehostet
 
