@@ -74,7 +74,7 @@ Die Modelle selbst laufen auf einem eigenen Rechner mit einer 16-GB-Grafikkarte.
 
 **KI & Modelle** `Claude` `Gemini` `Ollama` `ComfyUI` `Embedding-Modelle` `MCP`<br>
 **Selbst hosten** `Proxmox` `n8n` `signal-cli` `Proxmox Backup Server` `Caddy` `deSEC` `VPN`<br>
-**Daten & Wissen** `PostgreSQL` `pgvector` `SQLite` `Qdrant` `Obsidian` `Mealie`<br>
+**Daten & Wissen** `PostgreSQL` `pgvector` `SQLite` `Qdrant` `Obsidian`<br>
 **Entwicklung** `Claude Code` `Git` `GitHub`<br>
 
 ---
