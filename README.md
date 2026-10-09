@@ -48,13 +48,13 @@ Hier baue ich Werkzeuge für mich, meine Familie und meinen Homeserver.
 | | Projekt | Worum es geht | Technik |
 |---|---|---|---|
 | ⚔️ | **Ätherfront** | Kompetitives Sammelkartenspiel zum Anfassen: Zonenkontrolle statt Lebenspunkte, jede Karte ist Einheit, Ressource oder verdeckter Schläfer. Dazu eine Balancing-Engine, die Tausende Partien mit Bots simuliert und auswertet, und spielbare Prototypen im Browser. | Node.js · React |
-| 🚐 | **Ablesetour** | Browserspiel über den Alltag eines Ablesedienstes: Wasserzähler ablesen, Heizkostenverteiler tauschen, Rauchmelder prüfen – mit Feierabendverkehr, Blitzern, Glatteis und einem Biber, der Kupferrohre liebt. | HTML5 · JavaScript |
+| 🚐 | **Ablesetour** | Browserspiel über den Alltag eines Ablesedienstes: Wasserzähler ablesen, Heizkostenverteiler tauschen, Rauchmelder prüfen – mit Feierabendverkehr, Blitzern, Glatteis und einem Biber, der Kupferrohre liebt. Wochenendprojekt, entstanden als Spaß unter Kollegen. | HTML5 · JavaScript |
 
 #### Im Netz
 
 | | Projekt | Worum es geht | Technik |
 |---|---|---|---|
-| 📚 | **KI-Notizen** | Ein Websiteprojekt mit Grundlagenwissen zu KI, ursprünglich gestartet für Familie und Freunde: kostenlos, ohne Werbung, ohne Affiliate-Links, ohne Kurse. Die Menschen, von denen ich selbst lerne, sind dort verlinkt. **Aktuell offline** | Astro |
+| 📚 | **KI-Notizen** | Ein Websiteprojekt mit Grundlagenwissen zu KI, ursprünglich gestartet für Familie und Freunde: kostenlos, ohne Werbung, ohne Affiliate-Links, ohne Kurse. Die Menschen, von denen ich selbst lerne, sind dort verlinkt. **Aktuell offline. Überarbeitung der Inhalte und Zielgruppe** | Astro |
 
 ### Homelab & KI selbst gehostet
 
@@ -73,8 +73,8 @@ Die Modelle selbst laufen auf einem eigenen Rechner mit einer 16-GB-Grafikkarte.
 ### Werkzeuge
 
 **KI & Modelle** `Claude` `Gemini` `Ollama` `ComfyUI` `Embedding-Modelle` `MCP`<br>
-**Selbst hosten** `Proxmox` `n8n` `signal-cli` `Proxmox Backup Server` `Caddy` `deSEC` `VPN`<br>
-**Daten & Wissen** `PostgreSQL` `pgvector` `SQLite` `Qdrant` `Obsidian`<br>
+**Selbst hosten** `Proxmox` `n8n` `signal-cli` `Proxmox Backup Server` `Caddy` `VPN`<br>
+**Daten & Wissen** `PostgreSQL` `SQLite` `Qdrant` `Obsidian`<br>
 **Entwicklung** `Claude Code` `Git` `GitHub`<br>
 
 ---
@@ -111,7 +111,7 @@ Die Modelle selbst laufen auf einem eigenen Rechner mit einer 16-GB-Grafikkarte.
 | | Project | What it does | Stack |
 |---|---|---|---|
 | ⚔️ | **Ätherfront** | Competitive physical trading card game: zone control instead of life points, and every card is a unit, a resource or a face-down sleeper. Plus a balancing engine that simulates and analyses thousands of bot games, and playable browser prototypes. | Node.js · React |
-| 🚐 | **Ablesetour** | Browser game about a day as a meter reader: read water meters, swap heat-cost allocators, check smoke alarms – with rush-hour traffic, speed cameras, black ice and a beaver that loves copper pipes. | HTML5 · JavaScript |
+| 🚐 | **Ablesetour** | Browser game about a day as a meter reader: read water meters, swap heat-cost allocators, check smoke alarms – with rush-hour traffic, speed cameras, black ice and a beaver that loves copper pipes. Weekend project for colleagues. | HTML5 · JavaScript |
 
 #### On the web
 
