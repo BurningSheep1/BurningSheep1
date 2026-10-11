@@ -3,7 +3,7 @@
 
 # Hallo, ich bin Manuel 👋
 
-Hier baue ich Werkzeuge für mich, meine Familie, Freunde auf meinen Homeserver. <br>
+Hier baue ich Werkzeuge und PoCs für mich, meine Familie & Freunde auf meinen Homeserver. <br>
 Mit und dank KI.
 
 🇩🇪 Deutsch · 🇬🇧 [English](#-english)
