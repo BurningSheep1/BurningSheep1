@@ -21,7 +21,7 @@ Mit und dank KI.
 | | Projekt | Worum es geht | Technik |
 |---|---|---|---|
 | 🧠 | **OKF Studio** | Lokales Wissensmanagement nach dem **LLM-Wiki-Ansatz von Andrej Karpathy**, kombiniert mit dem **Open Knowledge Format (OKF)**. Notizen unterwegs in Sekunden erfassen, auch im Funkloch, später einarbeiten: Die KI schlägt einen Änderungssatz über mehrere Seiten vor, ich prüfe ihn, ein Git-Commit übernimmt ihn. Dazu Volltext-, semantische und hybride Suche, eine Frageansicht für alle, die nur etwas wissen wollen, ein Pflegelauf für verwaiste Seiten und tote Verweise, eine REST-API für n8n und ein **MCP-Server für Claude**. Markdown bleibt die führende Quelle, alles andere ist abgeleitet. Die KI ist austauschbar (Ollama, Gemini, OpenAI) und optional. | LLM Wiki · OKF · Ollama · MCP |
-| 🌳 | **Decision Space** | Entscheidungen steuern und dokumentieren: Was hängt wovon ab – und was muss neu geprüft werden, wenn sich eine frühere Entscheidung ändert? | Next.js · PostgreSQL |
+| 🌳 | **Dec** | Entscheidungen im Projekt dokumentieren und steuern: Was hängt wovon ab, und was muss neu geprüft werden, wenn sich eine frühere Entscheidung ändert? Bedienung wie git, KI-Assistenten halten Entscheidungen selbst fest. | Next.js · Markdown |
 | 🧩 | **Business-Skills für Claude** | Deutschsprachige Skills für Mitarbeitende im Mittelstand, nutzbar in Claude Code und im Chat (als Prompt). Ein gemeinsames **Unternehmensprofil** gibt allen Skills Kontext; daraus entstehen zum Beispiel **Entscheidungsvorlagen** für die Geschäftsführung mit Optionen, Bewertungsmatrix, Risiken und Empfehlung. | Claude Code · Skills |
 
 #### Familie & Alltag
@@ -82,7 +82,7 @@ Die Modelle selbst laufen auf einem eigenen Rechner mit einer 16-GB-Grafikkarte.
 | | Project | What it does | Stack |
 |---|---|---|---|
 | 🧠 | **OKF Studio** | Local knowledge management following **Andrej Karpathy's LLM wiki approach**, combined with the **Open Knowledge Format (OKF)**. Capture notes on the go in seconds – even without signal – and work them in later: the AI proposes a change set across several pages, I review it, and a Git commit applies it. Plus full-text, semantic and hybrid search, a Q&A view for people who just want answers, a maintenance run for orphaned pages and dead links, a REST API for n8n and an **MCP server for Claude**. Markdown stays the source of truth; everything else is derived. The AI is swappable (Ollama, Gemini, OpenAI) and optional. | LLM wiki · OKF · Ollama · MCP |
-| 🌳 | **Decision Space** | Steer and document decisions: what depends on what – and what needs to be reviewed when an earlier decision changes? | Next.js · PostgreSQL |
+| 🌳 | **Dec** | Document and steer decisions within a project: What depends on what, and what needs to be re-examined when an earlier decision changes? Works like git, and AI assistants record decisions on their own. | Next.js · Markdown |
 | 🧩 | **Business skills for Claude** | German-language skills for employees of small and mid-sized companies, usable in Claude Code and in a Chat (as Prompt). A shared **company profile** gives every skill its context; from it come, for example, **decision papers** for management with options, a scoring matrix, risks and a recommendation. | Claude Code · Skills |
 
 #### Family & everyday life
